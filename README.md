@@ -13,10 +13,16 @@ Ah, I was already forgetting, I like animals especially Horses and Dogs!🐎🐶
 ### 🕐"Em constante Evolução"❤️
 
 
-[![Uelber's GitHub stats](https://github-readme-stats.vercel.app/api?username=uelberhenrique&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=uelberhenrique&show_icons=true&theme=radical&count_private=true" />
+<a/>
+<a href="https://github.com/anuraghazra/github-readme-stats"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=uelberhenrique&show_icons=true&theme=radical&count_private=true" />
+<a/>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uelberhenrique&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uelberhenrique&layout=compact&theme=radical)]()
 
 
 - 🏡 From BA Living in Salvador
