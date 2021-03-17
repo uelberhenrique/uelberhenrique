@@ -8,22 +8,17 @@ And it motivates me a lot to discover new things and study 😵👾😂
 
 You already know my interest in Technology.👨🏼‍💻🪐💥
 
-Ah, I was already forgetting, I like animals especially Horses and Dogs!🐎🐶
+- 🏹  I currently do information systems at Universidade Estácio de Sá. 
+- 🎯 Software Engineer
 
 ### 🕐"Em constante Evolução"❤️
 
-
-
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=uelberhenrique&show_icons=true&theme=radical&count_private=true" />
 <a/>
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=uelberhenrique&show_icons=true&theme=radical&count_private=true" />
 <a/>
-
-- 🏡 From BA Living in Salvador
-- 🏹  I currently do information systems at Universidade Estácio de Sá. 
-- 🎯 Software Engineer
 
 Reach me out 👇🏼
 
