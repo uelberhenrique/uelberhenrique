@@ -21,10 +21,6 @@ Ah, I was already forgetting, I like animals especially Horses and Dogs!🐎🐶
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=uelberhenrique&show_icons=true&theme=radical&count_private=true" />
 <a/>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uelberhenrique&layout=compact&theme=radical)]()
-
-
 - 🏡 From BA Living in Salvador
 - 🏹  I currently do information systems at Universidade Estácio de Sá. 
 - 🎯 Software Engineer
