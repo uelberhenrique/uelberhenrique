@@ -17,7 +17,7 @@ You already know my interest in Technology.👨🏼‍💻🪐💥
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=uelberhenrique&show_icons=true&theme=radical&count_private=true" />
 <a/>
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=uelberhenrique&show_icons=true&theme=radical&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uelberhenrique&show_icons=true&theme=radical&count_private=true" />
 <a/>
 
 Reach me out 👇🏼
