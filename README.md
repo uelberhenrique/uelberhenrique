@@ -12,7 +12,9 @@ Ah, I was already forgetting, I like animals especially Horses and Dogs!🐎🐶
 
 ### 🕐"Em constante Evolução"❤️
 
-[![Uelber's GitHub stats](https://github-readme-stats.vercel.app/api?username=uelberhenrique)](https://github.com/anuraghazra/github-readme-stats)
+[![Uelber's GitHub stats](https://github-readme-stats.vercel.app/api?username=uelberhenrique&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 - 🏡 From BA Living in Salvador
 - 🏹  I currently do information systems at Universidade Estácio de Sá. 
