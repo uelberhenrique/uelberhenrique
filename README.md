@@ -86,22 +86,10 @@ Aplicação de LLMs e agentes inteligentes para automatizar fluxos operacionais 
 <div align="center">
 
 <a href="https://github.com/uelberhenrique">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uelberhenrique&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&card_width=450" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uelberhenrique&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
 </a>
 <a href="https://github.com/uelberhenrique">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uelberhenrique&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_width=350" />
-</a>
-
-<br/><br/>
-
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=uelberhenrique&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=uelberhenrique&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uelberhenrique&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
