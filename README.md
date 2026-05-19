@@ -8,16 +8,13 @@
 <br/>
 
 <!-- Badges sociais -->
-<a href="(https://www.linkedin.com/in/uelberhenrique/">
+<a href="https://www.linkedin.com/in/uelberhenrique/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:uelber2011@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://lunaydigital.com.br">
-  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&label=Visualiza%C3%A7%C3%B5es&color=4A90E2&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=uelberhenrique&label=Visualiza%C3%A7%C3%B5es&color=4A90E2&style=for-the-badge" />
 
 </div>
 
@@ -31,7 +28,6 @@ Engenheiro de software focado em **produtos SaaS B2B** e **tecnologia aplicada a
 - 💻 Construo **produtos independentes** com foco em **margem, escala e eficiência operacional** — não em vaidade técnica
 - 🤖 Apaixonado por **agentes inteligentes**, automação operacional e arquitetura **multi-tenant**
 - 📊 Penso software como negócio: **DRE, unit economics, ICP e pricing** antes da primeira linha de código
-- 📚 Cursando **Sistemas de Informação** na Universidade Estácio de Sá
 - 📍 Bahia, Brasil 🇧🇷
 
 > _"Software só importa quando reduz custo, escala operação ou aumenta margem."_
@@ -89,12 +85,24 @@ Aplicação de LLMs e agentes inteligentes para automatizar fluxos operacionais 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/uelberhenrique">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uelberhenrique&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&card_width=450" />
+</a>
+<a href="https://github.com/uelberhenrique">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uelberhenrique&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_width=350" />
+</a>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=tokyonight&hide_border=true" alt="streak stats"/>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=uelberhenrique&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=uelberhenrique&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+</a>
 
 </div>
 
