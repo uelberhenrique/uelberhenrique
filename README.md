@@ -86,10 +86,10 @@ Aplicação de LLMs e agentes inteligentes para automatizar fluxos operacionais 
 <div align="center">
 
 <a href="https://github.com/uelberhenrique">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uelberhenrique&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-lake-nine-64.vercel.app/api?username=uelberhenrique&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
 </a>
 <a href="https://github.com/uelberhenrique">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uelberhenrique&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-lake-nine-64.vercel.app/api/top-langs/?username=uelberhenrique&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
